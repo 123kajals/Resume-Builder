@@ -34,24 +34,14 @@ After using npm install <package_name> to install the dependencies, type npm sta
 
 **Template selection** - From this component user can choose their favourite template.
 
-![Screenshot (7)](https://github.com/neet-1405/Almabetter-resume-builder-Project/assets/142343452/2c7508f6-fedd-48cd-98cb-c33329156067)
-
 
 
 **Details Filling page**
 
 
-![Screenshot (9)](https://github.com/neet-1405/Almabetter-resume-builder-Project/assets/142343452/909aa73e-efa7-4815-91bd-e34848c29ad5)
-
 **About Us Page**
 
-
-![Screenshot (8)](https://github.com/neet-1405/Almabetter-resume-builder-Project/assets/142343452/2141e649-509d-4532-a3bf-91f238d3efe3)
-
 ##Links for the project
-
-Deployment Link: https://65869d1c3098fa639fd5c00f--celadon-pavlova-5c5f3e.netlify.app/
-
 
 ##Team Members
 
